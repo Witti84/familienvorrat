@@ -1,4 +1,8 @@
 export const italian={
+  "Unser gemeinsamer Fortschritt":"I nostri progressi",
+  "Unser Überblick":"La nostra panoramica",
+  "Kategorien":"Categorie",
+  "Status filtern":"Filtra per stato",
   "Vorsorge ist besser": "Prevenire è meglio",
   "als Nachsorge.": "che curare.",
   "Gut vorbereitet sein beginnt mit einem einfachen Plan.": "Essere preparati inizia con un piano semplice.",
